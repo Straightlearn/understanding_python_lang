@@ -19,3 +19,4 @@ language and any person intrested.
 3. [Working with date and time](https://github.com/Straightlearn/understanding_python_lang/tree/main/date_time)
 4. [Exception](https://github.com/Straightlearn/understanding_python_lang/tree/main/exception)
 5. [Python list](https://github.com/Straightlearn/understanding_python_lang/tree/main/list)
+6. [String formating](https://github.com/Straightlearn/understanding_python_lang/tree/main/string_foemating)
