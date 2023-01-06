@@ -23,3 +23,4 @@ language and any person intrested.
 7. [Getter and setter](https://github.com/Straightlearn/understanding_python_lang/tree/main/classObjects/getter_setter_in_class)
 8. [Inheritance](https://github.com/Straightlearn/understanding_python_lang/tree/main/classObjects/inheritance)
 9. [Date formats](https://github.com/Straightlearn/understanding_python_lang/tree/main/date_time/DateFormats)
+10. [Time module](https://github.com/Straightlearn/understanding_python_lang/tree/main/date_time/Time_module)
