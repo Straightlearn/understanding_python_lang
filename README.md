@@ -21,3 +21,4 @@ language and any person intrested.
 5. [Python list](https://github.com/Straightlearn/understanding_python_lang/tree/main/list)
 6. [String formating](https://github.com/Straightlearn/understanding_python_lang/tree/main/string_foemating)
 7. [Getter and setter](https://github.com/Straightlearn/understanding_python_lang/tree/main/classObjects/getter_setter_in_class)
+8. [Inheritance](https://github.com/Straightlearn/understanding_python_lang/tree/main/classObjects/inheritance)
