@@ -1,0 +1,11 @@
+multd=[[4,7],[89,76],[54,98]]
+print(multd)
+print(multd[0]) 
+print(multd[1])
+print(multd[2])
+print(multd[0][0])
+print(multd[0][1])
+print(multd[1][0])
+print(multd[1][1])
+print(multd[2][0])
+print(multd[2][1])

@@ -1,0 +1,1 @@
+# magical methods and class

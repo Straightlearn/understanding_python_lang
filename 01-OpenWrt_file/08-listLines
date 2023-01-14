@@ -1,0 +1,11 @@
+print('To print file as it is using list')
+
+#taking the file name
+print("Name of file to read and list lines")
+file=input('>>> ')
+
+with open(file) as file:
+    #to list file lines
+    for i in list(file):
+        print(i)
+

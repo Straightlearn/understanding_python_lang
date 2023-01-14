@@ -1,6 +1,6 @@
-'''this function checks if a file exists or not. if the file do not exist the the os.path.exists will return false, if not it will return true'''
 import os
 
+'''this function checks if a file exists or not. if the file do not exist the the os.path.exists will return false, if not it will return true'''
 def check(file_name):
     # Check if file exist or not using the file name
     return os.path.exists(file_name)
